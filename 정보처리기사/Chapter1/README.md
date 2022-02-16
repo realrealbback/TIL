@@ -17,3 +17,10 @@
 - ### [Section015 : 품질 요구사항](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section015.md)
 
 ## 3. 애플리케이션 설계
+- ### [Section021 : 소프트웨어 아키텍처](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section021.md)
+- ### [Section022 : 아키텍처 패턴](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section022.md)
+- ### [Section023 : 객체지향(Object-Oriented](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section023.md)
+- ### [Section024 : 객체지향 분석 및 설계](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section024.md)
+- ### [Section025 : 모듈](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section025.md)
+- ### [Section027 : 코드](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section027.md)
+- ### [Section028 : 디자인패턴](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section028.md)
