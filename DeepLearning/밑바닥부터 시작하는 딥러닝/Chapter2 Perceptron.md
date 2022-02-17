@@ -17,6 +17,7 @@
 <img src="https://user-images.githubusercontent.com/74582262/152740479-4cea8d9f-0abd-4dde-92e6-150c4c736455.png" width="50%" height="50%">
 <br>
 XOR는 2층 퍼셉트론이다.
+
 1. 0층의 두 뉴련이 입력 신호를 받아 1층의 뉴런으로 신호를 보낸다.
 2. 1픙의 뉴련이 2층의 뉴런으로 신호를 보내고, 2층의 뉴런은 이 입력 신호를 바탕으로 y를 출력한다.
 
