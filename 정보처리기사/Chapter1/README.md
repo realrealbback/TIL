@@ -24,3 +24,7 @@
 - ### [Section025 : 모듈](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section025.md)
 - ### [Section027 : 코드](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section027.md)
 - ### [Section028 : 디자인패턴](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section028.md)
+
+## 4. 인터페이스 설계
+- ### [Section030 : 인터페이스 요구사항 검증](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section030.md)
+- ### [Section035 : 미들웨어 솔루션 명세](https://github.com/realrealbback/Today-I-Learn/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/Chapter1/Section035.md)
