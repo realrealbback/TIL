@@ -104,3 +104,44 @@
 - Go-Back-N ARQ: 여러 블록을 연속적으로 전송하고, 수신 측에서 부정 응답(NAK)을 보내오면 송신 측이 오류가 발생한 블록부터 모두 재 전송
 - Selective-Reapeat ARQ(선택적 재전송 ARQ): 여러 블록을 연속적으로 전송하고, 수신측에서 부정 응답(NAK)을 보내오면 송신 측이 오류가 발생한 블록만을 재전송
 - Adaptive ARQ(적응적 ARQ): 전송 효율을 최대로 하기 위해서 데이터 블록의 길이를 채널의 상태에 따라 동적으로 변경하는 방식
+
+### 82.
+강제접근통제(Mandatory Access Control), 주체와 객체의 등급을 비교하여 접근 권한을 부여하는 방식<br>
+임의접근통제(Discretionary Access Control), 접근하는 사용자의 신원에 따라 접근 권한을 부여하는 방식<br>
+사용자계정컨트롤(User Access Control), 프로그램에서 관리자 수준의 권한이 필요한 작업을 수행할 때 사용자에게 알려서 제어할 수 있도록 돕는 기능<br>
+자료별 접근통제(Data-Label Access Control > Label-Based Access Control), 개별 행, 열에 대해 쓰기 권한, 읽기 권한을 가졌는지를 명확하게 결정하는 제어 방식
+
+### 87.
+VLAN(Virtual Local Area Network)
+: 물리적 배치와 상관없이 논리적으로 LAN을 구성
+Broadcast Domain을 구분할 수 있게 해주는 기술로 접속된 장비들의 성능향상 및 보안성 증대 효과
+
+STP(Spanning Tree Protocol)
+: 2개 이상의 스위치가 여러 경로로 연결될 때,
+무한 루프 현상을 막기 위해서 우선순위 따라 1개의 경로로만 통신하도록 하는 프로토콜
+
+ARP(Address Resolution Protocol)
+: 네트워크 상에서 IP 주소를 물리적 네트워크 주소로 대응(bind)시키기 위해 사용되는 프로토콜,
+(IP를 MAC주소로 바인딩)
+
+### 89.
+개인키 암호화 - 블록 암호화 방식 : DES, SEED, AES, ARIA<br>
+개인키 암호화 - 스트림 암호화 방식 : LFSR, RC4<br>
+공개키 암호화(비대칭 암호) : RSA
+
+### 95.
+ICMP(Internet Control Message Protocol)
+- IP 동작에서 네트워크 진단이나 제어 목적으로 사용
+
+ICMP Flooding
+- 서비스 거부DoS 공격의 한 방법으로 사용
+- 보통 스머프 공격(Smurf Attack)이라고 부름
+- 공격 방법에는 "Ping Flooding"과 "SYN Flooding"이 있음
+
+Ping Flooding
+- 공격대상에 막대한 양의 ICMP 에코 요청 패킷(ping)을 보내는 방법
+- 보내는 쪽의 네트워크 대역폭이 대상 시스템이 확보한 네트워크 대역폭보다 더 크면 됨
+
+SYN Flooding
+- 막대한 양의 TCP SYN 패킷을 대상 시스템으로 보내서 시스템을 마비 시키는 공격 방법
+
